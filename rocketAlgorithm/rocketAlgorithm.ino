@@ -376,3 +376,4 @@ void ANA_PARASUT()
 //YAPILACAKLAR:
 //YEDEK SİSTEME GEÇİŞ //YEDEK SİSTEME GEÇ MESAJI GÖNDERİRİZ YEDEK SİSTEME. ÖRNEĞİN YEDEK SİSTEMDE BİR yedekGecis = ""; boş bir değer olacak oraya gelecek ve sonra if li bir yapıda yedekGecis = "YEDEK SİSTEM GEÇ" ise loop u başlat gibisinden.
 //PAYLOAD VE ANA PARASUT ALGORİTMALARINA GÜVENLİK ALGORİTMASI DEVAM EDİLECEK.
+//DENEME!
